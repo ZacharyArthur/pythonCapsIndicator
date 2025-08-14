@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+*.pyo
+*.pyd
+.Python
+venv/
+.venv/
+*.egg-info/
+
+# Claude Code
+.claude/
+CLAUDE.md
+
+# Serena MCP
+.serena/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
